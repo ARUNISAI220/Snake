@@ -134,7 +134,7 @@ public:
 	{
 		InitAudioDevice();
 		eatSound = LoadSound("Sounds/eat.wav");
-		wallHitSound = LoadSound("Sounds/wallHit.wav");
+		wallHitSound = LoadSound("Sounds/gameover.wav");
 
 	}
 
